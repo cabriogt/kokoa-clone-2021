@@ -1,0 +1,25 @@
+.settings-setting{
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.settings-setting i{
+    margin-right: 20px;
+    font-size: 22px;
+    opacity:0.6;
+}
+
+.settings_setting-column:last-child{
+    opacity: 0.5;
+}
+
+#settings-screen .alt-header{
+    position:relative;
+    top: 19px;
+    width: 100%;
+    box-sizing: border-box;
+}
