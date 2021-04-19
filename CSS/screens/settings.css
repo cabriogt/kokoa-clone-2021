@@ -1,25 +1,33 @@
-.settings-setting{
-    padding: 20px 0;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-    font-size: 18px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.settings-setting {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
 }
 
-.settings-setting i{
-    margin-right: 20px;
-    font-size: 22px;
-    opacity:0.6;
+.settings-setting i {
+  color: white;
+  margin-right: 20px;
+  font-size: 22px;
+  opacity: 0.6;
 }
 
-.settings_setting-column:last-child{
-    opacity: 0.5;
+.settings_setting-column:last-child {
+  opacity: 0.8;
+  color: white;
 }
 
-#settings-screen .alt-header{
-    position:relative;
-    top: 19px;
-    width: 100%;
-    box-sizing: border-box;
+#settings-screen .alt-header {
+  position: relative;
+  top: 19px;
+  width: 100%;
+  box-sizing: border-box;
+  color: white;
+}
+
+.settings_setting-column i {
+  color: white;
 }
