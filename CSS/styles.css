@@ -19,15 +19,13 @@
 @import "screens/settings.css";
 @import "screens/chat.css";
 
-
-body{
-    color:#2e363e;
-    font-family: 'Open Sans', sans-serif;
+body {
+  color: #2e363e;
+  font-family: "Star Jedi", arial;
+  text-shadow: 3px 3px 3px lightslategrey;
+  background: url("https://r1.community.samsung.com/t5/image/serverpage/image-id/591349i744166DD194E8841/image-size/large?v=1.0&px=999");
+  overflow: hidden;
 }
-
-.main-screen{
-    padding: 0px var(--horizontal-space);
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
-
-
-
